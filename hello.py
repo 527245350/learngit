@@ -1,2 +1,3 @@
-#!/usr/bin/env python
+#bin/env python:utf-8
 print('hello,world.')
+
